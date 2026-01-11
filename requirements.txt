@@ -1,0 +1,9 @@
+pandas
+numpy
+tldextract
+statsmodels
+scikit-learn
+missingno
+matplotlib
+recordlinkage
+plotly
