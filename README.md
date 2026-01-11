@@ -40,3 +40,18 @@ To avoid losing nearly 30% of the dataset due to missing funding values, I used:
 *Using a custom Stability Score (1 - CV), this chart shows which industries had the most consistent funding year-over-year.*
 
 ---
+
+### How to Run this Project
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/shivaarchithavudutha/Indian-Startup-Funding-Analysis.git
+   ```
+2. **Install the tools:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run the script:**
+   ```bash
+   python main_analysis.py
+   ```
